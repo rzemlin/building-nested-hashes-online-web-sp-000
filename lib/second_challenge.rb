@@ -12,4 +12,5 @@ def second_challenge
       :herione => {},
       :herione_friends => {}
       }
+  }
 end
