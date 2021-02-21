@@ -11,7 +11,7 @@ def second_challenge
       :matriarch => {},
       :herione => {},
       :herione_friends =>
-      }}
+      }
 
   
 end
