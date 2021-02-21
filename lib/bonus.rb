@@ -20,8 +20,8 @@ def bonus
    }
   }
 
- hash[:montague][:hero][:status] = "dead",
- [:capulet][:heroine][:status] = "dead"
+ hash[:montague][:hero][:status] = "dead"
+ hash[:capulet][:heroine][:status] = "dead"
 
   
 
